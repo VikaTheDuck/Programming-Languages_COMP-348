@@ -1,5 +1,5 @@
 # Programming-Languages_COMP-348
-Principles of Programming Languages Assignment  
+Principles of Programming Languages Assignment, Fall 2020
 <br/>
 Victoria Solodovnikova 40133650  
 Sofiya Taver 40095050  
