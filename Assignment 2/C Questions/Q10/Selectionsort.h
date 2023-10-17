@@ -1,3 +1,8 @@
+// October 2020
+// Victoria Solodovnikova 40133650
+// Sofiya Taver 40095050
+// Laurent Cousineau 26773001
+
 #ifndef SELECTIONSORT_H_INCLUDED
 #define SELECTIONSORT_H_INCLUDED
 
